@@ -126,10 +126,6 @@ footer {
     margin-top: 50px; 
 }
 
-footer p {
-    font-size: 0.95rem;
-    letter-spacing: 0.5px;
-}
 
 @media screen and (max-width: 768px) {
     
